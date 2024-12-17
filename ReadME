@@ -1,0 +1,35 @@
+# Jurassic Park Management System 🦖
+
+## Description
+Ce projet est un système de gestion pour un parc à dinosaures (Jurassic Park). Il permet de gérer :
+- Les dinosaures (Herbivores et Carnivores).
+- Les enclos pour accueillir les dinosaures.
+- Le système de maintenance des enclos.
+- L'historique des activités.
+- Génération d'un rapport JSON pour l'organisation.
+
+---
+
+## **Technologies Utilisées**
+- **Langage :** JavaScript (Node.js ou navigateur).
+- **Format :** JSON pour les rapports.
+
+---
+
+## **Fonctionnalités**
+1. **Gestion des Dinosaures :**
+   - Ajout d'Herbivores et de Carnivores.
+   - Affichage des informations d'un dinosaure.
+   - Soins pour les dinosaures malades.
+
+2. **Gestion des Enclos :**
+   - Ajout et retrait de dinosaures.
+   - Affichage des dinosaures présents.
+   - Historique des activités.
+
+3. **Maintenance des Enclos :**
+   - Gestion des tâches de maintenance.
+
+4. **Génération de Rapport :**
+   - Export des données des enclos et dinosaures au format JSON.
+
